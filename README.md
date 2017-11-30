@@ -21,14 +21,12 @@ Builder proof:
   
   
 [http://www.swmcts.com.cn/](http://www.swmcts.com.cn/)  
-
 Builder proof:  
 
 ![Source codes proof](Xavi-New.github.io/builder_proof02.jpg)  
   
   
 [http://www.bethanien.cn/](http://www.bethanien.cn/)  
-
 Builder proof:  
 
 ![Source codes proof](Xavi-New.github.io/builder_proof03.jpg)  
