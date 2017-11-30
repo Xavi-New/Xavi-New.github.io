@@ -11,7 +11,16 @@ Thus no surprise if the content of this page is none.
 * javascript: need documentational help while using complicated functions
 * Php: need documentational help while using complicated functions
 
-Demo for the above 3 skills: [http://www.swissabl.com/](http://www.swissabl.com/)
+Some website demos for the above 3 skills: 
+[http://www.swissabl.com/](http://www.swissabl.com/)
+Builder proof: ![Source codes proof](Xavi-New.github.io/builder_proof.jpg)
+
+[http://www.swmcts.com.cn/](http://www.swmcts.com.cn/)
+Builder proof: ![Source codes proof](Xavi-New.github.io/builder_proof02.jpg)
+
+[http://www.bethanien.cn/](http://www.bethanien.cn/)
+Builder proof: ![Source codes proof](Xavi-New.github.io/builder_proof03.jpg)
+
 
 * Java(for android app): Learning...
 
