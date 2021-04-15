@@ -8,7 +8,7 @@ Thus no surprise if the content of this page is none.
 
 * Html: experienced
 * Css: experienced
-* javascript: need documentational help while using complicated functions
-* Php: need documentational help while using complicated functions
-* Java(for android app): Learning...
+* javascript: average
+* Php: average
+* python:experienced
 
